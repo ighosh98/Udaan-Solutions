@@ -1,0 +1,24 @@
+{
+    "s01" : {
+    	"studentId":"s01",
+        "name" : "Indraneel",
+        "courses" : [
+            "c01",
+            "c02"
+        ],
+        "quizzes" : {
+            "qz01" : 22
+        }
+    },
+    "s02" : {
+    	"studentId":"s02",
+        "name" : "Kundu",
+        "courses" : [
+            "c01",
+            "c03"
+        ],
+        "quizzes" : {
+            "qz01" : 3
+        }
+    }
+}

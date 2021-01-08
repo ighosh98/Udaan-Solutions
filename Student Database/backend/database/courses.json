@@ -1,0 +1,22 @@
+{
+    "c01" : {
+    	"courseId":"c01",
+        "name" : "DSA",
+        "quizzes" : [
+            "qz01"
+        ],
+        "students" : ["s01", "s02"]
+    },
+    "c02" : {
+    	"courseId":"c02",
+        "name" : "DAA",
+        "quizzes" : [],
+        "students" : ["s01"]
+    },
+    "c03" : {
+    	"courseId":"c03",
+        "name" : "Useless",
+        "quizzes" : [],
+        "students" : ["s02"]
+    }
+}

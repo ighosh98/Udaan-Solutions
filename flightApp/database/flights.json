@@ -1,0 +1,12 @@
+{
+	"f01": {
+		"flightNumber": "f01",
+		"airlineName": "Indigo",
+		 "source": "MA", 
+		"destination": "AG",
+		"startTime": "1000",
+		"endTime": "1300",
+		"frequency":["Monday"],
+		"capacity" : 100
+	}
+}

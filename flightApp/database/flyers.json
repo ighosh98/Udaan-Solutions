@@ -1,0 +1,7 @@
+{
+    "fl01" : {
+    	"flyerId" : "fl01",
+        "flyerName" : "ralf",
+        "reservations" : [1, 2]
+    }
+}

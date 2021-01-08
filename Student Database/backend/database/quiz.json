@@ -1,0 +1,19 @@
+{
+    "qz01" : {
+    	"quizId" : "qz01",
+        "quizName" : "DSA Quiz",
+        "courseId" : "c01",
+        "questions" : {
+            "q1" : {
+                "question" : "What's the point?",
+                "options" : ["Everything", "Nothing", "Placements", "All of the above"],
+                "correctOption" : 3
+            },
+            "q2" : {
+                "question" : "Is there peace?",
+                "options" : ["No", "NO", "no...", "All of the above"],
+                "correctOption" : 3
+            }
+        }
+    }
+}

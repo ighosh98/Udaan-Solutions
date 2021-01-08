@@ -1,0 +1,33 @@
+Flask App
+1. To run app install venv with flask
+2. Go to Terminal
+3. source /venv/bin/activate
+4. Run the following commands
+	export FLASK_APP=run.py
+	export FLASK_ENV=development
+5. python -m flask run
+
+
+Indraneel Ghosh	2016B1A70938P
+
+API Documentation[Postman]
+Sample API
+http://127.0.0.1:5000/reserve
+{
+            "date": "12/06/20",
+            "flightNumber": "f03",
+            "flyerId": "fl01",
+            "reservationId": "r03",
+            "seatsReserved": [
+                1,
+                2,
+                3
+            ]
+}
+Response
+{
+    "success": true
+}
+API calls
+GET : http://127.0.0.1:5000/flyer/fl01
+

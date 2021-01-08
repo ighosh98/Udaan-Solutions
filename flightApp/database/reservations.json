@@ -1,0 +1,1 @@
+[{"reservationId": "r01", "flightNumber": "f01", "flyerId": "fl01", "seatsReserved": [1, 2, 3], "date": "12/06/20"}, {"reservationId": "r03", "flightNumber": "f03", "flyerId": "fl01", "seatsReserved": [1, 2, 3], "date": "12/06/20"}]
